@@ -19,3 +19,5 @@ Menu for select call:
 
 Colored log of call selected:
 ![imagen](https://user-images.githubusercontent.com/9198441/138848606-8ba8b6d9-9070-492d-bb22-5ceebde9b201.png)
+
+Sorry is not in english but used only common words used in voip logs: TempsTotal-> total time, TempsParlat-> speak time, origen -> source, desti -> destination, calleridnom -> calleridname, data -> date, selecciona ID de la trucada a revisar als logs -> select ID of call to show logs.
